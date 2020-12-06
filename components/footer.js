@@ -25,6 +25,8 @@ export default function Footer() {
           </div>
         </div>
       </Container>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-FXKZH0NM7Q"></script>
+      <script src="/assets/js/google-analytics.js"></script>
     </footer>
   )
 }

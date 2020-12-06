@@ -37,6 +37,7 @@ export default function Meta() {
         content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+      <meta name="google-site-verification" content="u8EW_trbivUrryd9Psu8QWmxvOSZgFlw9LTA337GaqE" />
     </Head>
   )
 }
