@@ -25,6 +25,15 @@ export default function Footer() {
           </div>
         </div>
       </Container>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FXKZH0NM7Q"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-FXKZH0NM7Q');
+    </script>
     </footer>
   )
 }
