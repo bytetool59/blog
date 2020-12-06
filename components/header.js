@@ -6,7 +6,6 @@ export default function Header() {
       <Link href="/">
         <a className="hover:underline">ByteTool - Blog</a>
       </Link>
-      .
     </h2>
   )
 }
